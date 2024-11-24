@@ -1,5 +1,5 @@
 # First Project
-This repository is for my first project. 
+This is a basic project. 
 
 
-First project : Run Apache and MySQL web server and load the site.
+Run Apache and MySQL web server and load the site.
