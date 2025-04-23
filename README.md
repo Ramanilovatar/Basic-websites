@@ -1,4 +1,3 @@
-# First Project
 This is a basic project. 
 
 
